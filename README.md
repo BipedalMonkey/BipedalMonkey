@@ -1,4 +1,12 @@
-### Hi there 👋
+### hello
+
+- 10+ years programming
+- generalist, dabbled in a bit of everything
+  - most experienced in
+    - python
+    - csharp
+    - rust
+    - lua
 
 <!--
 **BipedalMonkey/BipedalMonkey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
